@@ -69,7 +69,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Vikings: Valhalla (2022)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1B-EPC-LS-MTX/main/C5-SRS-Vikings.Valhalla-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/A1B-EPC-LS-KRP/main/C5-SRS-Vikings.Valhalla-KRP</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/izIMqapegdEZj0YVDyFATPR8adh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/AoqmQvKRN2z8ZYAnREL1Cul4jPn.jpg</fanart>
 <info>Assista a série Vikings: Valhalla. 
@@ -79,6 +79,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
